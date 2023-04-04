@@ -5,7 +5,7 @@ Der deRSE e.V. möchte dem evt. nachkommen, um auf die Wichtigkeit der Einbezieh
 
 In der Datei [Rückmeldung.md](Rückmeldung.md) laden wir an diesem Thema Interessierte ein, per pull-request Änderungen und Hinzufügungen vorzunehmen.
 
-Die so bis zum 10.4.2023 um 9 Uhr gesammelten Antworten werden daraufhin nach einer ggf. nötigen redaktioneller Überarbeitung dem BMBF wie im Einladungsschreiben beschrieben übersendet.
+Die so bis zum 10.4.2023 um 9 Uhr gesammelten Antworten werden danach vom deRSE-Vorstand gesichtet und soweit möglich in die Rückmeldung eingearbeitet. Sollte dies nicht überall möglich sein (z.B. da es sich gegenseitig widersprechende Änderungsvorschläge gab) werden wir dies in den entsprechenden pull requests transparent machen. Im Anschluss wird das Dokument dem BMBF wie im Einladungsschreiben beschrieben übersendet.
 Wir weisen darauf hin, dass das BMBF plant, die Einreichungen zu veröffentlichen.
 
 ## Dateiformat
