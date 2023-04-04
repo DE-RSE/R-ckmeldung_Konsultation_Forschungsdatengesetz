@@ -1,1 +1,1 @@
-Frank Löffler <frank.loeffler@uni-jena.de>
+- Frank Löffler <frank.loeffler@uni-jena.de>
