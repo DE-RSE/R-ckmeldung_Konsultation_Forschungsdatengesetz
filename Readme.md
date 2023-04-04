@@ -8,6 +8,11 @@ In der Datei [Rückmeldung.md](Rückmeldung.md) laden wir an diesem Thema Intere
 Die so bis zum 10.4.2023 um 9 Uhr gesammelten Antworten werden daraufhin nach einer ggf. nötigen redaktioneller Überarbeitung dem BMBF wie im Einladungsschreiben beschrieben übersendet.
 Wir weisen darauf hin, dass das BMBF plant, die Einreichungen zu veröffentlichen.
 
+## Dateiformat
+
+Die Umfrage wurde in Markdown gesetzt und deren Text ist bitte nicht zu ändern.
+Die Einträge unserer Antwort sind zu "quoten": müssen mit ```> ``` beginnen.
+
 ## Autorenschaft
 
 Der BMBF-Fragebogen enthält keine Möglichkeit, sinnvoll eine potentiell längere Liste von Autor/inn/en anzugeben, noch wäre es für die Auswertung der Antworten wahrscheinlich sinnvoll.
