@@ -11,6 +11,7 @@ Wir weisen darauf hin, dass das BMBF plant, die Einreichungen zu veröffentliche
 ## Dateiformat
 
 Die Umfrage wurde in Markdown gesetzt und deren Text ist bitte nicht zu ändern.
+
 Die Einträge unserer Antwort sind zu "quoten": müssen mit ```> ``` beginnen.
 Diese können natürlich gern geändert werden.
 Geht dabei jedoch vorsichtig mit der Arbeit eurer Vorgänger/innen um: kommentiert lieber anstatt zu löschen.
@@ -20,7 +21,9 @@ Wir versuchen dann, das im redaktionellen Prozess zu lösen.
 
 Der BMBF-Fragebogen enthält keine Möglichkeit, sinnvoll eine potentiell längere Liste von Autor/inn/en anzugeben, noch wäre es für die Auswertung der Antworten wahrscheinlich sinnvoll.
 Deswegen ist geplant, als Absender der Rückmeldung den Verein deRSE e.V. ohne persönliche Namensnennung zu nutzen.
+
 Davon unabhängig gibt es jedoch die Datei [AUTHORS.md], in die sich alle diejenigen bitte eintragen (idealerweise im gleichen pull-request wie deren erste Änderung an [Rückmeldung.md](Rückmeldung.md)), die in einer gesonderten Veröffentlichung der Rückmeldung von Seiten des Vereins als Mitautor/in genannt werden wollen.
+
 Mit Eintragung in diese Datei wird der Veröffentlichung der eingetragenen Daten im Zusammenhang mit der Autorenschaft der Rückmeldung zugestimmt.
 Der Ort und die Art und Weise dieser Veröffentlichung steht noch nicht fest.
 
