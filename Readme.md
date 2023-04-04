@@ -12,6 +12,9 @@ Wir weisen darauf hin, dass das BMBF plant, die Einreichungen zu veröffentliche
 
 Die Umfrage wurde in Markdown gesetzt und deren Text ist bitte nicht zu ändern.
 Die Einträge unserer Antwort sind zu "quoten": müssen mit ```> ``` beginnen.
+Diese können natürlich gern geändert werden.
+Geht dabei jedoch vorsichtig mit der Arbeit eurer Vorgänger/innen um: kommentiert lieber anstatt zu löschen.
+Wir versuchen dann, das im redaktionellen Prozess zu lösen.
 
 ## Autorenschaft
 
