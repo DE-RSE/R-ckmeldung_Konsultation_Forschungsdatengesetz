@@ -19,7 +19,7 @@ Bitte erläutern Sie, welche Bedarfe an Daten im Kontext kommerzieller und nicht
 - **a. Daten _für_ die Forschung**:
     - Zu welchen Daten besteht aus Ihrer Sicht ein Bedarf an besseren Zugangs-, Nutzungs- und Verknüpfungsmöglichkeiten z.B. lange Datenreihen, geographisch referenzierte Daten, gelabelte Daten, (nicht) personenbezogene Daten, kuratierte Daten, Rohdaten ohne Kontext, Spartendaten wie Klima, Wetter?
         > Software, die zur Datenverarbeitung (u.a. Umwandlung, Analyse, Visualisierung) sonstiger Daten im Einflussbereich des Forschungsdatengesetzes notwendig ist oder üblicherweise verwendet wird. 
-        > Grund ist, dass in der Forschung Nachvollziehbarkeit essentiell ist und durch Lücken in der Datenverarbeitung gefährtet wäre, z.Bsp. durch das Fehlen oder anderweilige Nichtbenutzbarkeit nötiger Software.
+        > Grund ist, dass in der Forschung Nachvollziehbarkeit essentiell ist und durch Lücken in der Datenverarbeitung gefährtet wäre, z.B. durch das Fehlen oder anderweitige Nichtbenutzbarkeit nötiger Software.
  
     - In welchen wissenschaftlichen Disziplinen bzw. interdisziplinären Kontexten für welche Forschungszwecke sind Datenzugänge besonders relevant (z.B. empirische Wirtschaftsforschung, Bildungsforschung, medizinische Forschung, interdisziplinäre Forschung)?
         > 
@@ -47,11 +47,11 @@ Bitte erläutern Sie, welche Bedarfe an Daten im Kontext kommerzieller und nicht
 
 - d. Wie schätzen sie die **Bedeutung von Forschungskooperationen** (z.B. mit Partnern aus der Wissenschaft und der Wirtschaft) in Bezug auf das sektorübergreifende Teilen von Daten ein?
     > Für die Weiterentwicklung der Gesellschaft ist das Anwenden von Forschungsergebnissen auch außerhalb der Wissenschaft enorm von Vorteil.
-    > Dabei ist sowohl das Anwenden von neuen Forschungsmethoden auf Daten anderer Sektionen gemeint, als auch die Nutzung entstandener Forschungsdaten in anderen Sektionen.
-    > Sektorübergreifende Forschungskooperationen können also sowohl für die Wissenschaft als auch für andere Sektionen von großem Nutzen sein.
+    > Dabei ist sowohl das Anwenden von neuen Forschungsmethoden auf Daten anderer Sektoren gemeint, als auch die Nutzung entstandener Forschungsdaten in anderen Sektoren.
+    > Sektorübergreifende Forschungskooperationen können also sowohl für die Wissenschaft als auch für andere Sektoren von großem Nutzen sein.
 
 - e. Welche **Rolle und** welche **Aufgaben** sollten **Datenmittlerstrukturen** beim Datenteilen einnehmen?
-    > Eine Rolle könnten Datenmittler beim kontrollierten Einhalten des Datenschutzes dienen und hier z.Bsp. entsprechend der Anfrage anonymisierten Zugriff auf Teile von Datensätzen erlauben.
+    > Eine Rolle könnten Datenmittler beim kontrollierten Einhalten des Datenschutzes dienen und hier z.B. entsprechend der Anfrage anonymisierten Zugriff auf Teile von Datensätzen erlauben.
     > Abgesehen vom Datenschutz könnten Datenmittlerstrukturen bei der Etablierung und Einhaltung von Datenaustauschstandards behilflich sein. Dies muss auch die Koordination mit entsprechenden internationalen Standards einschließen, weil nationale Grenzen zumindest in der Wissenschaft oft keine große Bedeutung haben.
 
 
