@@ -19,7 +19,7 @@ Bitte erläutern Sie, welche Bedarfe an Daten im Kontext kommerzieller und nicht
 - **a. Daten _für_ die Forschung**:
     - Zu welchen Daten besteht aus Ihrer Sicht ein Bedarf an besseren Zugangs-, Nutzungs- und Verknüpfungsmöglichkeiten z.B. lange Datenreihen, geographisch referenzierte Daten, gelabelte Daten, (nicht) personenbezogene Daten, kuratierte Daten, Rohdaten ohne Kontext, Spartendaten wie Klima, Wetter?
         > Software, die zur Datenverarbeitung (u.a. Umwandlung, Analyse, Visualisierung) sonstiger Daten im Einflussbereich des Forschungsdatengesetzes notwendig ist oder üblicherweise verwendet wird. 
-        > Grund ist, dass in der Forschung Nachvollziehbarkeit essentiell ist und durch Lücken in der Datenverarbeitung gefährtet wäre, z.B. durch das Fehlen oder anderweitige Nichtbenutzbarkeit nötiger Software.
+        > Grund ist, dass in der Forschung Nachvollziehbarkeit essentiell ist und durch Lücken in der Datenverarbeitung gefährdet wäre, z.B. durch das Fehlen oder anderweitige Nichtbenutzbarkeit nötiger Software.
  
     - In welchen wissenschaftlichen Disziplinen bzw. interdisziplinären Kontexten für welche Forschungszwecke sind Datenzugänge besonders relevant (z.B. empirische Wirtschaftsforschung, Bildungsforschung, medizinische Forschung, interdisziplinäre Forschung)?
         > 
