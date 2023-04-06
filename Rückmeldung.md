@@ -35,7 +35,7 @@ Bitte erläutern Sie, welche Bedarfe an Daten im Kontext kommerzieller und nicht
         > 
 
     - Welche Herkunft/Quellen von Forschungsdaten sind hier aus Ihrer Sicht besonders relevant?
-        > Daten aus groß angelegten Projekten, die eine möglichst große Untermenge ihrer Dimensionen möglichst granular abbilden, z.B. langjährige Zeitreihen deutschlandweiter Monitoringprogramme, können von vielen Akteuren in vielfältiger Weise nachgenutzt werden und haben dadurch potentiell einen besonders großen gesellschaftlichen Wert. Voraussetzung für die Inwertsetzung solcher Daten ist die durch begleitend veröffentlichte quelloffene Software Dokumentation der Datenaufbereitung.
+        > Daten aus groß angelegten Projekten, die eine möglichst große Untermenge ihrer Dimensionen möglichst granular abbilden, z.B. langjährige Zeitreihen deutschlandweiter Monitoringprogramme, können von vielen Akteuren in vielfältiger Weise nachgenutzt werden und haben dadurch potentiell einen besonders großen gesellschaftlichen Wert. Voraussetzung für die Inwertsetzung solcher Daten ist die Dokumentation der Datenaufbereitung durch begleitend veröffentlichte quelloffene Software.
 
 - **c.** Was würde die **Bereitschaft zum Datenteilen** auf Seiten von
     - Unternehmen bzw. der Wirtschaft
