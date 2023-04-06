@@ -82,7 +82,7 @@ Mit Blick auf die beschriebenen Bedarfe und Hindernisse, welche legislativen Reg
 - **a.** (zu den nicht-legislativen Lösungen s. 3 c)
     > - Daten aus dem öffentlichen Sektor könnten analog Beispielen anderer Länder grundsätzlich frei und unentgeltlich verfügbar zu machen sein (mit nötigen Einschränkungen wie dem Datenschutz) und mit allgemein kompatibler Lizenz zu versehen sein, wie zum Beispiel der CC0.
     > - Software aus dem öffentlichen Sektor könnte grundsätzlich unter einer Open-Source-Lizenz veröffentlicht werden.
-    > - Die durch öffentlich Stellen zur Erzeugung, Bearbeitung und Bereitstellung von Daten verwendete Software sollte generell quelloffen sein.
+    > - Die durch öffentliche Stellen zur Erzeugung, Bearbeitung und Bereitstellung von Daten verwendete Software sollte generell quelloffen sein.
 
 - **b.** In welchen Gesetzen (deutschen/ggf. auch europäischen) besteht aus Ihrer Sicht Änderungs-/Ergänzungsbedarf mit Blick auf die oben beschriebenen Bedarfe und Hindernisse (Formulierungsvorschläge erwünscht)?
     > 
