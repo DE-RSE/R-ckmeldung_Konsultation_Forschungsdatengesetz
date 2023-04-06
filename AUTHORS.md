@@ -1,1 +1,2 @@
 - Frank Löffler <frank.loeffler@uni-jena.de>
+- Harald von Waldow <harald.vonwaldow@thuenen.de>
