@@ -8,7 +8,7 @@ author:
 ---
 ## Vorwort
 
-Das folgende Dokument besteht aus dem vom Bundesministerium für Bildung und Forschung am 10.03.2023 veröffentlichten Fragebogen zur öffentlichen Konsultation zum Forschungsdatengesetz und den von der Gesellschaft für Forschungssoftware in Deutschland - deRSE e.V. am 11.4.2023 eingereichten Antworten.
+Das folgende Dokument besteht aus dem vom Bundesministerium für Bildung und Forschung am 10.03.2023 veröffentlichten Fragebogen zur öffentlichen Konsultation zum Forschungsdatengesetz und den von der Gesellschaft für Forschungssoftware in Deutschland - de-RSE e.V. am 11.4.2023 eingereichten Antworten.
 
 Lediglich das Format wurde geändert, weil die vorgegebene Datei im pdf-Format teilweise nicht genügend Platz für Antworten bereitstellte. Da die Antworten im Markdownformat von der Gemeinschaft der RSEs eingesammelt wurden, liegen sie nun sowohl in [Markdown](https://github.com/DE-RSE/Rueckmeldung_Konsultation_Forschungsdatengesetz/blob/master/R%C3%BCckmeldung.md) als auch als [PDF-Datei](https://raw.githubusercontent.com/DE-RSE/Rueckmeldung_Konsultation_Forschungsdatengesetz/master/Abgabe/R%C3%BCckmeldung_deRSE_eV.pdf) vor.
 
@@ -23,7 +23,7 @@ Bitte ordnen Sie sich einer Gruppe zu.
 
 ## Verfasserin oder Verfasser (Institution/Person)
 
-> Gesellschaft für Forschungssoftware - deRSE e.V.
+> Gesellschaft für Forschungssoftware - de-RSE e.V.
 
 ## 1. Bedarfe
 
