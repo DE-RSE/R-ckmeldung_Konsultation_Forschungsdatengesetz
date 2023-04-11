@@ -88,7 +88,7 @@ Mit Blick auf die beschriebenen Bedarfe und Hindernisse, welche legislativen Reg
     > 
 
 - **c.** Welche weiteren, nicht-legislativen Lösungsvorschläge sehen Sie mit Blick auf die beschriebenen Bedarfe und Hindernisse?
-    > Die Etablierung einer anerkannten Plattform für die Publikation quelloffener Software von öffentlichen Stellen würde zumindest ein aktuelles Hindernis aus dem Weg räumen. https://opencode.de ist ein Anfang, aber deutlich mehr Ressourcen für Pflege und Kuratierung wären nötig.
+    > Die Etablierung einer anerkannten Plattform für die Publikation quelloffener Software von Seiten der öffentlichen Stellen würde ein aktuelles Hindernis aus dem Weg räumen. https://opencode.de ist dabei ein Anfang, aber wichtig ist ein gelebter Wechsel zur quelloffenen Software als Normalfall.
 
 
 ## 4. Sonstiges
