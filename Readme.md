@@ -17,6 +17,10 @@ Diese können natürlich gern geändert werden.
 Geht dabei jedoch vorsichtig mit der Arbeit eurer Vorgänger/innen um: kommentiert lieber anstatt zu löschen.
 Wir versuchen dann, das im redaktionellen Prozess zu lösen.
 
+Die PDF-Version für den Verein wurde wie folgt erstellt:
+
+```pandoc -i Rückmeldung.md -o Rückmeldung.pdf -V lang=de -H head.tex```
+
 ## Autorenschaft
 
 Der BMBF-Fragebogen enthält keine Möglichkeit, sinnvoll eine potentiell längere Liste von Autor/inn/en anzugeben, noch wäre es für die Auswertung der Antworten wahrscheinlich sinnvoll.
