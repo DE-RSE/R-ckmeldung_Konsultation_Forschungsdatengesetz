@@ -43,7 +43,7 @@ Bitte erläutern Sie, welche Bedarfe an Daten im Kontext kommerzieller und nicht
     - Zivilgesellschaft
     - öffentlichen Stellen
     erhöhen? Welche Anreize könnten gesetzt werden?
-    > 
+    > Insbesondere in der Wissenschaft gibt es außerhalb von Verbundprojekten bisher kaum Anreize zum Teilen von Daten oder Software. Ein Grund dafür liegt in der fehlenden Nützlichkeit für die Wissenschaftler:innen, Daten frei zugänglich zu machen. So ist es bisher für eine Karriere in der Wissenschaft (z.B. bei Berufungen) bisher unerheblich, ob Daten/Software geteilt bzw. sinnvoll aufbereitet zu Verfügung gestellt wurden. Eine mögliche Maßnahme wäre es daher, bei öffentlich geförderten Ausschreibungen die Anträge von daten-/softwarelastigen Projekten nicht nur nachden wissenschaftlichen Vorarbeiten in Form von Veröffentlichungen, sondern auch auf Basis einer dokumentierten Historie von geteilten Daten/Software zu bewerten.
 
 - d. Wie schätzen sie die **Bedeutung von Forschungskooperationen** (z.B. mit Partnern aus der Wissenschaft und der Wirtschaft) in Bezug auf das sektorübergreifende Teilen von Daten ein?
     > Für die Weiterentwicklung der Gesellschaft ist das Anwenden von Forschungsergebnissen auch außerhalb der Wissenschaft enorm von Vorteil.
@@ -80,9 +80,9 @@ Bitte gliedern Sie der Übersichtlichkeit halber gern in z.B. rechtliche, techni
 Mit Blick auf die beschriebenen Bedarfe und Hindernisse, welche legislativen Regelungen sollten aus Ihrer Sicht für ein Forschungsdatengesetz geprüft werden (konkrete Formulierungsvorschläge erwünscht)?
 
 - **a.** (zu den nicht-legislativen Lösungen s. 3 c)
-    > - Daten aus dem öffentlichen Sektor könnten analog Beispielen anderer Länder grundsätzlich frei und unentgeltlich verfügbar zu machen sein (mit nötigen Einschränkungen wie dem Datenschutz) und mit allgemein kompatibler Lizenz zu versehen sein, wie zum Beispiel der CC0.
-    > - Software aus dem öffentlichen Sektor könnte grundsätzlich unter einer Open-Source-Lizenz veröffentlicht werden.
-    > - Die durch öffentliche Stellen zur Erzeugung, Bearbeitung und Bereitstellung von Daten verwendete Software sollte generell quelloffen sein.
+    > - Daten aus dem öffentlichen Sektor sollen analog zu Beispielen anderer Länder grundsätzlich frei und unentgeltlich verfügbar zu machen sein (mit nötigen Einschränkungen wie dem Datenschutz) und mit allgemein kompatibler Lizenz zu versehen sein, wie zum Beispiel der CC0.
+    > - Software aus dem öffentlichen Sektor soll grundsätzlich unter einer Open-Source-Lizenz veröffentlicht werden.
+    > - Die durch öffentliche Stellen zur Erzeugung, Bearbeitung und Bereitstellung von Daten verwendete Software soll grundsätzlich quelloffen sein.
 
 - **b.** In welchen Gesetzen (deutschen/ggf. auch europäischen) besteht aus Ihrer Sicht Änderungs-/Ergänzungsbedarf mit Blick auf die oben beschriebenen Bedarfe und Hindernisse (Formulierungsvorschläge erwünscht)?
     > 
