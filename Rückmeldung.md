@@ -3,6 +3,7 @@
 ## Interessengruppe
 
 Bitte ordnen Sie sich einer Gruppe zu.
+
 - [x] Wissenschaft
 - [ ] Unternehmen (groß, KMU)
 - [ ] Zivilgesellschaft
