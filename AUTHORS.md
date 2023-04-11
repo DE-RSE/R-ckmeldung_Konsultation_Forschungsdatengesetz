@@ -1,2 +1,3 @@
 - Frank Löffler <frank.loeffler@uni-jena.de>
 - Harald von Waldow <harald.vonwaldow@thuenen.de>
+- Michael Schlottke-Lakemper <m.schlottke-lakemper@acom.rwth-aachen.de>
