@@ -1,6 +1,6 @@
 # Rückmeldung des deRSE zum Forschungsdatengesetz
 
-Das BMBF lädt in einem [Fragebogen](https://www.bmbf.de/SharedDocs/Downloads/de/2023/230306-forschungsdatengesetz-fragebogen.html) zur Kommentierung der Notwendigkeit eines Forschungsdatengesetzes [eingeladen](https://www.bmbf.de/SharedDocs/Downloads/de/2023/230306-forschungsdatengesetz-Einladungsschreiben.html).
+Das BMBF hat in einem [Fragebogen](https://www.bmbf.de/SharedDocs/Downloads/de/2023/230306-forschungsdatengesetz-fragebogen.html) zur Kommentierung der Notwendigkeit eines Forschungsdatengesetzes [eingeladen](https://www.bmbf.de/SharedDocs/Downloads/de/2023/230306-forschungsdatengesetz-Einladungsschreiben.html).
 Der deRSE e.V. möchte dem evt. nachkommen, um auf die Wichtigkeit der Einbeziehung von Forschungssoftware hinzuweisen.
 
 In der Datei [Rückmeldung.md](Rückmeldung.md) laden wir an diesem Thema Interessierte ein, per pull-request Änderungen und Hinzufügungen vorzunehmen.
