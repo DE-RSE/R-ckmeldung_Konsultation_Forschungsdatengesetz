@@ -1,4 +1,16 @@
-# Öffentliche Konsultation zum Forschungsdatengesetz - Fragebogen
+---
+title: Öffentliche Konsultation zum Forschungsdatengesetz - Fragebogen
+date: 2023-04-11
+author:
+- "Frank Löffler (frank.loeffler@uni-jena.de)"
+- "Harald von Waldow (harald.vonwaldow@thuenen.de)"
+- "Michael Schlottke-Lakemper (m.schlottke-lakemper@acom.rwth-aachen.de)"
+---
+## Vorwort
+
+Das folgende Dokument besteht aus dem vom Bundesministerium für Bildung und Forschung am 10.03.2023 veröffentlichten Fragebogen zur öffentlichen Konsultation zum Forschungsdatengesetz und den von der Gesellschaft für Forschungssoftware in Deutschland - deRSE e.V. am 11.4.2023 eingereichten Antworten.
+
+Lediglich das Format wurde geändert, weil die vorgegebene Datei im pdf-Format teilweise nicht genügend Platz für Antworten bereitstellte. Da die Antworten im Markdownformat von der Gemeinschaft der RSEs eingesammelt wurden, liegen sie nun sowohl in [Markdown](https://github.com/DE-RSE/Rueckmeldung_Konsultation_Forschungsdatengesetz/blob/master/R%C3%BCckmeldung.md) als auch als [PDF-Datei](https://raw.githubusercontent.com/DE-RSE/Rueckmeldung_Konsultation_Forschungsdatengesetz/master/Abgabe/R%C3%BCckmeldung_deRSE_eV.pdf) vor.
 
 ## Interessengruppe
 
